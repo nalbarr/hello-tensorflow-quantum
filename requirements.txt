@@ -1,0 +1,4 @@
+# hello-mnist-tfq
+
+tensorflow==2.4.1
+tensorflow-quantum
